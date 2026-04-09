@@ -53,7 +53,7 @@ The deployed instance serves a basic web page over **HTTP (Port 80)**.
 ### 🔹 Provider (AWS)
 ```hcl
 provider "aws" {
-  alias  = "mumbai"
+  alias  = "ohio"
   region = var.aws_region
 }
 ```
@@ -219,9 +219,11 @@ terraform output
 ```
 
 Open in browser:
-```
-http://<public-ip>
-```
+
+<p align="center">
+  <img src="../images/terraform-nginx-deploy-page.png" width="700"/>
+</p>
+
 
 ---
 
