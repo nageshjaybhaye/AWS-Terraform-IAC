@@ -8,7 +8,6 @@ The deployed instance serves a basic web page over **HTTP (Port 80)**.
 ---
 
 ## 🏗️ Architecture
-## 🏗️ Architecture
 
 <p align="center">
   <img src="../images/architecture.png" width="700"/>
