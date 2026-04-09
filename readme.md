@@ -52,11 +52,14 @@ Each project directory contains a dedicated `README.md` with:
 
 ---
 
-## 📫 Connect With Me
-I’m always open to discussing **DevOps, Cloud, and Infrastructure Engineering**.
+## 🤝 Connect With Me
 
-- 🔗 Linkedin
-- 💻 GitHub
+I’m always open to discussing DevOps, Cloud, and Infrastructure Engineering.
+
+<p align="left">
+  🔗 <a href="https://www.linkedin.com/in/nagesh-jaybhay" target="_blank">LinkedIn</a><br>
+  💻 <a href="https://github.com/nageshjaybhaye" target="_blank">GitHub</a>
+</p>
 
 ---
 
