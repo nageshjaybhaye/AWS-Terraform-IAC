@@ -22,7 +22,32 @@ Each project in this repository is structured to provide both practical implemen
 ## 🛠️ Project Portfolio
 Explore my Terraform projects below. Each project includes source code, documentation, and real deployment evidence.
 
-📂 **Click to View Projects (Serial No. 1–5)**
+<div align="center" style="position: relative; text-align: left;">
+
+  <img src="../images/architecture.png" width="100%" />
+
+  <div style="
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      color: white;
+      font-size: 28px;
+      font-weight: bold;
+  ">
+    🛠️ Project Portfolio
+  </div>
+
+  <div style="
+      position: absolute;
+      top: 70px;
+      left: 20px;
+      color: white;
+      font-size: 16px;
+  ">
+    Explore my Terraform projects below
+  </div>
+
+</div>
 
 ---
 
