@@ -8,9 +8,9 @@ The main idea was to stop relying on the **AWS Console** and instead manage infr
 ---
 
 ## 🏗️ Architecture
-```
-Terraform → AWS S3 → Bucket Created
-```
+<p align="center">
+  <img src="./s3architecture.png" width="700"/>
+</p>
 
 ---
 
