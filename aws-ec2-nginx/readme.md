@@ -209,14 +209,13 @@ terraform validate
 terraform plan
 terraform apply
 ```
+<p align="center">
+  <img src="./images/vs-code.png" width="700"/>
+</p>
 
 ---
 
 ## 🌐 Access the Application
-
-```bash
-terraform output
-```
 
 Open in browser:
 
