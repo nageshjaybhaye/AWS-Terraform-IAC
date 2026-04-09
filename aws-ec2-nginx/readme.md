@@ -227,6 +227,9 @@ EC2 Console
 ## 🌐 Access the Application
 
 Open in browser:
+```bash
+(http://<public-ip> )
+```
 
 <p align="center">
   <img src="./images/terraform-nginx-deploy-page.png" width="700"/>
