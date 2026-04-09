@@ -9,7 +9,7 @@ The deployed instance serves a basic web page over **HTTP (Port 80)**.
 
 ## 🏗️ Architecture
 ```
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](images/architecture.png)
 ```
 
 ---
