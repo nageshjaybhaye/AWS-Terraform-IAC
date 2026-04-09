@@ -9,7 +9,7 @@ The deployed instance serves a basic web page over **HTTP (Port 80)**.
 
 ## 🏗️ Architecture
 ```
-User → Browser → EC2 Instance → Nginx → Web Page
+![Architecture Diagram](./images/architecture.png)
 ```
 
 ---
