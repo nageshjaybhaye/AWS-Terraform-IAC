@@ -21,33 +21,13 @@ Each project in this repository is structured to provide both practical implemen
 
 ## 🛠️ Project Portfolio
 Explore my Terraform projects below. Each project includes source code, documentation, and real deployment evidence.
+## 🚀 My Terraform Projects
 
-<div align="center" style="position: relative; text-align: left;">
+### 1. EC2 Nginx Web Server Setup  
+[🔗 View Project](./aws-ec2-nginx)
 
-  <img src="../images/architecture.png" width="100%" />
-
-  <div style="
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      color: white;
-      font-size: 28px;
-      font-weight: bold;
-  ">
-    🛠️ Project Portfolio
-  </div>
-
-  <div style="
-      position: absolute;
-      top: 70px;
-      left: 20px;
-      color: white;
-      font-size: 16px;
-  ">
-    Explore my Terraform projects below
-  </div>
-
-</div>
+### 2. AWS S3 Bucket Deployment  
+[🔗 View Project](./aws-s3-bucket)
 
 ---
 
