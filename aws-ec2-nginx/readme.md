@@ -213,6 +213,15 @@ terraform apply
   <img src="./images/vs-code.png" width="700"/>
 </p>
 
+```bash
+EC2 Console
+```
+<p align="center">
+  <img src="./images/ec2-instance.png" width="700"/>
+</p>
+
+
+
 ---
 
 ## 🌐 Access the Application
