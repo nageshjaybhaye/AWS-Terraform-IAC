@@ -50,7 +50,7 @@ Each project directory contains a dedicated `README.md` with:
 ## 📫 Connect With Me
 I’m always open to discussing **DevOps, Cloud, and Infrastructure Engineering**.
 
-- 🔗 LinkedIn
+- 🔗 Linkedin
 - 💻 GitHub
 
 ---
