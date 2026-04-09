@@ -124,7 +124,11 @@ terraform apply
 ## 🔍 Verify in AWS Console
 - Go to **S3 service**
 - Check bucket: `demo-with-project-bucket-terraform`
-- Verify tags and details  
+- Verify tags and details
+
+<p align="center">
+  <img src="./s3-bucket.png" width="700"/>
+</p>
 
 ---
 
