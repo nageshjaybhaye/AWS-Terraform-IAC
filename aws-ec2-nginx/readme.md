@@ -221,7 +221,7 @@ terraform output
 Open in browser:
 
 <p align="center">
-  <img src="../images/terraform-nginx-deploy-page.png" width="700"/>
+  <img src="./images/terraform-nginx-deploy-page.png" width="700"/>
 </p>
 
 
