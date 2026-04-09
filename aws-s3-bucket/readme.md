@@ -89,8 +89,11 @@ terraform init
 ```
 - Downloads required provider plugins  
 - Prepares working directory  
-
 ---
+<p align="center">
+  <img src="./terra-init.png" width="700"/>
+</p>
+
 
 ### 🔹 Validate Configuration
 ```bash
