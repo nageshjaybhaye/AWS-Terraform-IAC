@@ -249,6 +249,10 @@ Open in browser:
 ```bash
 terraform destroy
 ```
+<p align="center">
+  <img src="./images/terra-destroy-ec2.png" width="700"/>
+</p>
+
 
 ---
 
